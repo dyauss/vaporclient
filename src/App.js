@@ -6,6 +6,7 @@ import ReactDOM from 'react-dom/client';
 import Root from './pages/root/root';
 // import ErrorPage from "./pages/error/Error";
 import Home from './pages/home/Home';
+import Login from './pages/login/Login';
 
 //Components
 
@@ -15,6 +16,7 @@ export default function App() {
     <BrowserRouter>
       <Routes>
         <Route path="/" element={<Home />} />
+        <Route path="/login" element={<Login />} />
       </Routes>
     </BrowserRouter>
   )
