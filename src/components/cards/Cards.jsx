@@ -8,7 +8,7 @@ import Typography from '@mui/material/Typography';
 
 export default function GameCards() {
   return (
-    <Card sx={{ maxWidth: 400 }}>
+    <Card sx={{ maxWidth: 400, boxShadow: '0 19px 38px rgba(0,0,0,0.30), 0 15px 12px rgba(0,0,0,0.22)'}}>
       <CardMedia
         sx={{ height: 190 }}
         image="https://rare-gallery.com/thumbs/349774-4k-wallpaper.jpg"
