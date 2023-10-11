@@ -16,6 +16,8 @@ import MailIcon from '@mui/icons-material/Mail';
 import NotificationsIcon from '@mui/icons-material/Notifications';
 import MoreIcon from '@mui/icons-material/MoreVert';
 
+import './navbar.css'
+
 const Search = styled('div')(({ theme }) => ({
   position: 'relative',
   borderRadius: theme.shape.borderRadius,
@@ -156,7 +158,11 @@ export function Navbar() {
 
   return (
     <Box sx={{ flexGrow: 1 }}>
+<<<<<<< HEAD
       <AppBar position="static">
+=======
+      <AppBar position="static" className='app-bar'>
+>>>>>>> guilherme
         <Toolbar>
           <IconButton
             size="large"
@@ -173,14 +179,22 @@ export function Navbar() {
             component="div"
             sx={{ display: { xs: 'none', sm: 'block' } }}
           >
+<<<<<<< HEAD
             MUI
+=======
+            VAPOR
+>>>>>>> guilherme
           </Typography>
           <Search>
             <SearchIconWrapper>
               <SearchIcon />
             </SearchIconWrapper>
             <StyledInputBase
+<<<<<<< HEAD
               placeholder="Search…"
+=======
+              placeholder="Buscar jogo…"
+>>>>>>> guilherme
               inputProps={{ 'aria-label': 'search' }}
             />
           </Search>

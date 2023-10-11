@@ -1,0 +1,5 @@
+.app-bar{
+    background-image: radial-gradient(circle, #0055ff, #0051e2, #004cc6, #0046a9, #053f8c);
+    background-repeat: no-repeat;
+    margin-bottom: 20px;
+}

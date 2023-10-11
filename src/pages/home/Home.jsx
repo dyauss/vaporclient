@@ -1,25 +1,27 @@
-import * as React from 'react';
-import { styled, alpha } from '@mui/material/styles';
-import AppBar from '@mui/material/AppBar';
-import Box from '@mui/material/Box';
-import Toolbar from '@mui/material/Toolbar';
-import IconButton from '@mui/material/IconButton';
-import Typography from '@mui/material/Typography';
-import InputBase from '@mui/material/InputBase';
-import Badge from '@mui/material/Badge';
-import MenuItem from '@mui/material/MenuItem';
-import Menu from '@mui/material/Menu';
-import MenuIcon from '@mui/icons-material/Menu';
-import SearchIcon from '@mui/icons-material/Search';
-import AccountCircle from '@mui/icons-material/AccountCircle';
-import MailIcon from '@mui/icons-material/Mail';
-import NotificationsIcon from '@mui/icons-material/Notifications';
-import MoreIcon from '@mui/icons-material/MoreVert';
+import './home.css';
+import GameCards from './../../components/cards/Cards';
+import { ContainerRow } from '../../components/containers/Row';
+import TitlesH1 from '../../components/title/Titles';
+import CarouselGames from '../../components/carousel/Carousel';
+import Greetings from '../../components/greetings/Greetings';
 
 export default function Home() {
   return (
-    <div className="container">
-      <h1>VTNC</h1>
+    <div>
+      <Greetings></Greetings>
+      <TitlesH1 title='Lançamentos'></TitlesH1>
+      <div className='row'>
+       <CarouselGames></CarouselGames>
+      </div> 
+      <TitlesH1 title='Catálogo de jogos'></TitlesH1>
+      <div className='row'>  
+        <GameCards></GameCards>
+        <GameCards></GameCards>
+        <GameCards></GameCards>
+        <GameCards></GameCards>
+        <GameCards></GameCards>
+      </div>
     </div>
+    
   );
 }
