@@ -11,15 +11,15 @@ export default function GameCards() {
     <Card sx={{ maxWidth: 400, boxShadow: '0 19px 38px rgba(0,0,0,0.30), 0 15px 12px rgba(0,0,0,0.22)'}}>
       <CardMedia
         sx={{ height: 190 }}
-        image="https://rare-gallery.com/thumbs/349774-4k-wallpaper.jpg"
-        title="Yumeko"
+        image="https://meups.com.br/wp-content/uploads/2019/03/Sekiro-Shadows-Die-Twice-.jpg"
+        title="Sekiro"
       />
       <CardContent>
         <Typography gutterBottom variant="h5" component="div">
-            Yumeko
+            Sekiro
         </Typography>
         <Typography variant="body2" color="text.secondary" style={{  maxHeight: '100px', overflowY: 'scroll' }}>
-          umekoEu amo Jabami YumekoEu umekoEu amo Jabami YumekoEu Eu amo Jabami YumekoEu amo Jabami  umekoEu amo Jabami YumekoEu umekoEu amo Jabami YumekoEu Eu amo Jabami YumekoEu amo Jabami  umekoEu amo Jabami YumekoEu umekoEu amo Jabami YumekoEu Eu amo Jabami YumekoEu amo Jabami  umekoEu amo Jabami YumekoEu umekoEu amo Jabami YumekoEu Eu amo Jabami YumekoEu amo Jabami  umekoEu amo Jabami YumekoEu umekoEu amo Jabami YumekoEu Eu amo Jabami YumekoEu amo Jabami  umekoEu amo Jabami YumekoEu umekoEu amo Jabami YumekoEu Eu amo Jabami YumekoEu amo Jabami YumekoEu amo Jabami YumekoEu amo Jabami YumekoEu amo Jabami YumekoEu amo Jabami YumekoEu amo Jabami YumekoEu amo Jabami YumekoEu amo Jabami YumekoEu amo Jabami YumekoEu amo Jabami Yumeko
+          Sekiro Shadows Die Twice Sekiro Shadows Die Twice Sekiro Shadows Die Twice Sekiro Shadows Die Twice Sekiro Shadows Die Twice Sekiro Shadows Die Twice Sekiro Shadows Die Twice Sekiro Shadows Die Twice Sekiro Shadows Die Twice 
         </Typography>
       </CardContent>
       <CardActions>

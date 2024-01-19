@@ -9,3 +9,4 @@ export default function TitlesH1(props) {
     </div>
   );
 }
+

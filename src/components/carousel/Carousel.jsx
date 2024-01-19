@@ -14,24 +14,24 @@ const AutoPlaySwipeableViews = autoPlay(SwipeableViews);
 
 const images = [
   {
-    label: 'Jabami imitando felino',
+    label: 'NieR Automata',
     imgPath:
-      'https://i1.sndcdn.com/avatars-000693503726-5cxo1w-t500x500.jpg',
+      'https://assets.nintendo.com/image/upload/ar_16:9,c_lpad,w_1240/b_white/f_auto/q_auto/ncom/pt_BR/games/switch/n/nier-automata-the-end-of-yorha-edition-switch/hero',
   },
   {
-    label: 'Jabami recebendo proposta do Mengão',
+    label: 'Dota 2',
     imgPath:
-      'https://thicc.mywaifulist.moe/waifus/6167/0fe48f585bd19f1b225271bca0a300b6e563276e82bc1cd6050f8921368129dc_thumb.png',
+      'https://s2-techtudo.glbimg.com/-q8MvinX_0xiDazd60GdPbioyH0=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2019/l/Q/L8uEtSTYmy8JwFegBjiw/images-8-.jpg',
   },
   {
-    label: 'Gostosakkkkk',
+    label: 'Counter Strike 2',
     imgPath:
-      'https://pbs.twimg.com/media/Ftorx9OXoAEzXti.jpg:large',
+      'https://cdn.cloudflare.steamstatic.com/steam/apps/730/capsule_616x353.jpg?t=1698860631',
   },
   {
-    label: 'Sei lá o que ela tá fazendo',
+    label: 'Fatal Frame Maiden of Black Water',
     imgPath:
-      'https://i.pinimg.com/1200x/45/c2/f8/45c2f87c57ea78714b9d430db3c9f43d.jpg',
+      'https://cdn.cloudflare.steamstatic.com/steam/apps/1732190/capsule_616x353.jpg?t=1697008699',
   },
 ];
 

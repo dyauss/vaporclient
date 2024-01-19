@@ -1,0 +1,6 @@
+.paper-container{
+    margin-top: 3rem;
+    word-wrap: break-word; 
+    white-space: normal;
+    overflow: auto;
+}
