@@ -14,24 +14,24 @@ const AutoPlaySwipeableViews = autoPlay(SwipeableViews);
 
 const images = [
   {
-    label: 'Jabami imitando felino',
+    label: 'NieR Automata',
     imgPath:
-      'https://i1.sndcdn.com/avatars-000693503726-5cxo1w-t500x500.jpg',
+      'https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/dbdc2d473dd2cd85f9d96a3394bd2903.jpe',
   },
   {
-    label: 'Jabami recebendo proposta do Mengão',
+    label: 'Sekiro',
     imgPath:
-      'https://thicc.mywaifulist.moe/waifus/6167/0fe48f585bd19f1b225271bca0a300b6e563276e82bc1cd6050f8921368129dc_thumb.png',
+      'https://cdn.vox-cdn.com/thumbor/9eUdMkl-i0seN4eBv4ahbeE9TtQ=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/60956053/Sekiro_24.0.jpg',
   },
   {
-    label: 'Gostosakkkkk',
+    label: 'Palworld',
     imgPath:
-      'https://pbs.twimg.com/media/Ftorx9OXoAEzXti.jpg:large',
+      'https://meups.com.br/wp-content/uploads/2024/01/Palworld.jpg',
   },
   {
-    label: 'Sei lá o que ela tá fazendo',
+    label: 'Dota 2',
     imgPath:
-      'https://i.pinimg.com/1200x/45/c2/f8/45c2f87c57ea78714b9d430db3c9f43d.jpg',
+      'https://s2.glbimg.com/iglqzieWmOf0BDharvafgqcpALk=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2018/b/p/6KBtpEQsAB4AU3XKddAA/dota-2-1.jpg',
   },
 ];
 

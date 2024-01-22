@@ -11,15 +11,15 @@ export default function GameCards() {
     <Card sx={{ maxWidth: 400, boxShadow: '0 19px 38px rgba(0,0,0,0.30), 0 15px 12px rgba(0,0,0,0.22)'}}>
       <CardMedia
         sx={{ height: 190 }}
-        image="https://rare-gallery.com/thumbs/349774-4k-wallpaper.jpg"
-        title="Yumeko"
+        image="https://files.tecnoblog.net/wp-content/uploads/2022/01/dark-souls-3-edited.jpeg"
+        title="Dark Souls 3"
       />
       <CardContent>
         <Typography gutterBottom variant="h5" component="div">
-            Yumeko
+            Dark Souls 3
         </Typography>
         <Typography variant="body2" color="text.secondary" style={{  maxHeight: '100px', overflowY: 'scroll' }}>
-          umekoEu amo Jabami YumekoEu umekoEu amo Jabami YumekoEu Eu amo Jabami YumekoEu amo Jabami  umekoEu amo Jabami YumekoEu umekoEu amo Jabami YumekoEu Eu amo Jabami YumekoEu amo Jabami  umekoEu amo Jabami YumekoEu umekoEu amo Jabami YumekoEu Eu amo Jabami YumekoEu amo Jabami  umekoEu amo Jabami YumekoEu umekoEu amo Jabami YumekoEu Eu amo Jabami YumekoEu amo Jabami  umekoEu amo Jabami YumekoEu umekoEu amo Jabami YumekoEu Eu amo Jabami YumekoEu amo Jabami  umekoEu amo Jabami YumekoEu umekoEu amo Jabami YumekoEu Eu amo Jabami YumekoEu amo Jabami YumekoEu amo Jabami YumekoEu amo Jabami YumekoEu amo Jabami YumekoEu amo Jabami YumekoEu amo Jabami YumekoEu amo Jabami YumekoEu amo Jabami YumekoEu amo Jabami YumekoEu amo Jabami Yumeko
+          Dark Souls 3 Dark Souls 3 Dark Souls 3 Dark Souls 3 Dark Souls 3 Dark Souls 3 Dark Souls 3 Dark Souls 3 Dark Souls 3 Dark Souls 3 Dark Souls 3 Dark Souls 3 Dark Souls 3 Dark Souls 3 Dark Souls 3 
         </Typography>
       </CardContent>
       <CardActions>
